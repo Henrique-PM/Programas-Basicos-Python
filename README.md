@@ -67,6 +67,4 @@ Você deve tentar adivinhar uma palavra secreta letra por letra. O jogo informa 
    - Digite a palavra secreta.
    - Tente adivinhar as letras até acertar ou falhar.
 
-## Contribuições
 
-Sinta-se à vontade para contribuir para este projeto. Se você encontrar algum problema ou tiver sugestões de melhorias, abra uma issue ou envie um pull request.
